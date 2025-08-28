@@ -1,4 +1,4 @@
-AI-Native CLI Agent
+# AI-Native CLI Agent </br>
 An intelligent command-line interface (CLI) assistant that executes natural language commands for software development tasks. Built with Python and powered by Groq's Llama 3.1 API.
 
 🚀 Features
@@ -163,4 +163,5 @@ No credit card required for basic usage
 Rate limits: Check Groq's current free tier limits
 
 Happy Coding! 🚀 Your AI CLI assistant is ready to help with your development workflow.
+
 
